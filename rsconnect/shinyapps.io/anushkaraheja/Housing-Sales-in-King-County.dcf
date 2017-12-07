@@ -1,0 +1,12 @@
+name: Housing-Sales-in-King-County
+title: Housing-Sales-in-King-County
+username:
+account: anushkaraheja
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 245798
+bundleId: 1120944
+url: https://anushkaraheja.shinyapps.io/Housing-Sales-in-King-County/
+when: 1512650358.9514
+asMultiple: FALSE
+asStatic: FALSE
